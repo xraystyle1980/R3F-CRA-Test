@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header>
       <div className="logo">
-        <span>TRICE TESTING, THIS IS A PR!</span>
+        <span>TRICE TESTING, THIS IS A PR! bing bang boom</span>
       </div>
       <div className="episode">
         <span>Demo</span>
